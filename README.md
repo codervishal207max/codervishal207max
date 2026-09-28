@@ -39,7 +39,6 @@ Generative AI          █████░░░░░░░░░░░░░░
 ### Programming
 
 * Python
-* C
 * C++
 
 ### Machine Learning
